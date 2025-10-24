@@ -1,0 +1,129 @@
+2025-10-23 13:44:20 INFO  Utils:112 - [TestNG] Running:
+  C:\workspaces\Projects\OpencartV121\master.xml
+
+2025-10-23 13:44:24 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-23 13:44:24 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-10-23 13:44:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-10-23 13:44:24 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-10-23 13:44:26 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-10-23 13:44:26 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-10-23 13:44:26 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-23 13:44:40 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amitp\AppData\Local\Temp\testng-eclipse--1921836145\testng-customsuite.xml
+
+2025-10-23 13:46:54 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-10-23 13:46:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@36676c1a: 39 ms
+2025-10-23 13:46:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@21d8bcbe: 43 ms
+2025-10-23 13:46:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@acb0951: 6 ms
+2025-10-23 13:46:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4648ce9: 7 ms
+2025-10-23 13:46:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@592e843a: 7 ms
+2025-10-23 13:46:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4ebea12c: 5 ms
+2025-10-23 13:46:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2a1edad4: 0 ms
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-23 13:47:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amitp\AppData\Local\Temp\testng-eclipse--354476395\testng-customsuite.xml
+
+2025-10-23 13:47:43 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-10-23 13:47:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@36676c1a: 21 ms
+2025-10-23 13:47:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@21d8bcbe: 60 ms
+2025-10-23 13:47:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@acb0951: 7 ms
+2025-10-23 13:47:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4648ce9: 8 ms
+2025-10-23 13:47:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@592e843a: 8 ms
+2025-10-23 13:47:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2a1edad4: 6 ms
+2025-10-23 13:47:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6256ac4f: 0 ms
+2025-10-23 15:34:48 INFO  Utils:112 - [TestNG] Running:
+  C:\workspaces\Projects\OpencartV121\crossbrowsertesting.xml
+
+2025-10-23 15:34:58 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-23 15:34:58 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-23 15:34:58 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-10-23 15:34:59 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-10-23 15:34:59 ERROR TC001_AccountRegistrationTest:51 - Test failed: Element <a href="https://tutorialsninja.com/demo/index.php?route=account/register"> could not be scrolled into view
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [1283e736-aa53-4962-9494-ebcdaee9533c, clickElement {id=dccc8d48-08ec-4284-8207-dd0922780476}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0, moz:accessibilityChecks: false, moz:buildID: 20251009125714, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16248, moz:profile: C:\Users\amitp\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (1283e736-aa53-4962-9494-ebcdaee9533c)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 1283e736-aa53-4962-9494-ebcdaee9533c
+2025-10-23 15:34:59 ERROR TC001_AccountRegistrationTest:51 - Test failed: Element <a href="https://tutorialsninja.com/demo/index.php?route=account/register"> could not be scrolled into view
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [1283e736-aa53-4962-9494-ebcdaee9533c, clickElement {id=dccc8d48-08ec-4284-8207-dd0922780476}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0, moz:accessibilityChecks: false, moz:buildID: 20251009125714, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16248, moz:profile: C:\Users\amitp\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (1283e736-aa53-4962-9494-ebcdaee9533c)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 1283e736-aa53-4962-9494-ebcdaee9533c
+2025-10-23 15:34:59 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-23 15:34:59 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-23 15:36:51 INFO  Utils:112 - [TestNG] Running:
+  C:\workspaces\Projects\OpencartV121\master.xml
+
+2025-10-23 15:37:10 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-23 15:37:10 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-10-23 15:37:19 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-10-23 15:37:19 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-10-23 15:37:26 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-10-23 15:37:26 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-10-23 15:37:26 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-23 15:37:40 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
